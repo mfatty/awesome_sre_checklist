@@ -21,7 +21,7 @@ Source: https://github.com/dastergon/awesome-sre
 - [Twitter](#twitter)
 
 ## Culture
-- [ ] [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
+- [x] [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
 - [ ] [Keys To SRE by Ben Treynor](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre)
 - [ ] [Google SRE Resources](https://landing.google.com/sre/resources.html)
 - [ ] [Notes from Production Engineering by Pedro Canahuati](https://www.usenix.org/conference/srecon15/program/presentation/canahuati)
