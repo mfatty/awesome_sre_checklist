@@ -336,7 +336,7 @@ Source: https://github.com/dastergon/awesome-sre
 - [ ] [rachelbythebay](https://rachelbythebay.com/w/) - Techincal Blog Posts.
 - [ ] [SRE Weekly](https://sreweekly.com/) - Weekly Site Reliability Newsletter.
 - [ ] [Production Ready](https://tinyletter.com/production-ready) - A mailing list about building resilient infrastructure and tools.
-- [ ] [Susan J. Fowler](http://www.susanjfowler.com/blog/) - Various blog posts about SRE, Software Engineering and Microservices.
+- [x] [Susan J. Fowler](http://www.susanjfowler.com/blog/) - Various blog posts about SRE, Software Engineering and Microservices.
 - [ ] [SREally?!](https://sreally.com/)
 - [ ] [SysAdvent](https://sysadvent.blogspot.com) - One article for each day of December, ending on the 25th article.
 - [ ] [Operations for Developers](http://some.ops4devs.info/) - A collection of resources for developers to strengthen their Ops skills.
