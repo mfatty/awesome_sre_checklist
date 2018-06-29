@@ -330,7 +330,7 @@ Source: https://github.com/dastergon/awesome-sre
 - [ ] [#incident_response channel at Hangops Slack](https://hangops.slack.com/) - Discussion about Incident Response.
 
 ## Blogs
-- [ ] [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html) - Highly Techincal Blog Posts About Systems Internals, Performance and SRE.
+- [x] [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html) - Highly Techincal Blog Posts About Systems Internals, Performance and SRE.
 - [ ] [Everything Sysadmin](http://everythingsysadmin.com/) - Blog Posts About SysAdmin/DevOps/SRE by Tom Limoncelli.
 - [x] [High Scalability](http://highscalability.com/) - Technical Blog Posts About Systems Architecture.
 - [ ] [rachelbythebay](https://rachelbythebay.com/w/) - Techincal Blog Posts.
