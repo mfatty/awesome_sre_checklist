@@ -335,7 +335,7 @@ Source: https://github.com/dastergon/awesome-sre
 - [x] [High Scalability](http://highscalability.com/) - Technical Blog Posts About Systems Architecture.
 - [x] [rachelbythebay](https://rachelbythebay.com/w/) - Techincal Blog Posts.
 - [ ] [SRE Weekly](https://sreweekly.com/) - Weekly Site Reliability Newsletter.
-- [ ] [Production Ready](https://tinyletter.com/production-ready) - A mailing list about building resilient infrastructure and tools.
+- [x] [Production Ready](https://tinyletter.com/production-ready) - A mailing list about building resilient infrastructure and tools.
 - [x] [Susan J. Fowler](http://www.susanjfowler.com/blog/) - Various blog posts about SRE, Software Engineering and Microservices.
 - [ ] [SREally?!](https://sreally.com/)
 - [ ] [SysAdvent](https://sysadvent.blogspot.com) - One article for each day of December, ending on the 25th article.
