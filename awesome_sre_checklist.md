@@ -320,7 +320,7 @@ Source: https://github.com/dastergon/awesome-sre
 - [ ] [Site Reliability Engineers: “We solve cooler problems”](https://www.google.com/about/careers/stories/site-reliability-engineering-profile-google/)
 - [ ] [SREcon17: Brave new world of site reliability engineering](http://www.networkworld.com/article/3182827/cloud-computing/srecon17-brave-new-world-of-site-reliability-engineering.html)
 - [ ] [Open AWS guide](https://github.com/open-guides/og-aws)
-- [x] [20 SRE / Devops / System Engineer Tricks](https://twitter.com/i/moments/924656333495898112)
+- [ ] [20 SRE / Devops / System Engineer Tricks](https://twitter.com/i/moments/924656333495898112)
 - [ ] [Commentary on Site Reliability Engineering](https://medium.com/@jerub/commentary-on-site-reliability-engineering-9ba9e1be2a8c)
 - [x] [Site Reliability Engineering: 4 Things to Know](https://www.networkcomputing.com/data-centers/site-reliability-engineering-4-things-know/888724300)
 - [ ] [Looking for SRE Success? Then Find the Intrapreneurs!](https://www.linkedin.com/pulse/looking-sre-success-find-intrapreneurs-josh-gilliland/)
