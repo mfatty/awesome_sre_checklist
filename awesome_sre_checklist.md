@@ -332,7 +332,7 @@ Source: https://github.com/dastergon/awesome-sre
 ## Blogs
 - [ ] [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html) - Highly Techincal Blog Posts About Systems Internals, Performance and SRE.
 - [ ] [Everything Sysadmin](http://everythingsysadmin.com/) - Blog Posts About SysAdmin/DevOps/SRE by Tom Limoncelli.
-- [ ] [High Scalability](http://highscalability.com/) - Technical Blog Posts About Systems Architecture.
+- [x] [High Scalability](http://highscalability.com/) - Technical Blog Posts About Systems Architecture.
 - [ ] [rachelbythebay](https://rachelbythebay.com/w/) - Techincal Blog Posts.
 - [ ] [SRE Weekly](https://sreweekly.com/) - Weekly Site Reliability Newsletter.
 - [ ] [Production Ready](https://tinyletter.com/production-ready) - A mailing list about building resilient infrastructure and tools.
