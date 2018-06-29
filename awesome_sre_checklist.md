@@ -322,7 +322,7 @@ Source: https://github.com/dastergon/awesome-sre
 - [ ] [Open AWS guide](https://github.com/open-guides/og-aws)
 - [ ] [20 SRE / Devops / System Engineer Tricks](https://twitter.com/i/moments/924656333495898112)
 - [ ] [Commentary on Site Reliability Engineering](https://medium.com/@jerub/commentary-on-site-reliability-engineering-9ba9e1be2a8c)
-- [ ] [Site Reliability Engineering: 4 Things to Know](https://www.networkcomputing.com/data-centers/site-reliability-engineering-4-things-know/888724300)
+- [x] [Site Reliability Engineering: 4 Things to Know](https://www.networkcomputing.com/data-centers/site-reliability-engineering-4-things-know/888724300)
 - [ ] [Looking for SRE Success? Then Find the Intrapreneurs!](https://www.linkedin.com/pulse/looking-sre-success-find-intrapreneurs-josh-gilliland/)
 
 ## Real-time Messaging
