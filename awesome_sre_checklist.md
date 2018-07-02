@@ -89,7 +89,7 @@ Source: https://github.com/dastergon/awesome-sre
 - [ ] [What Tools Do Site Reliability Engineers Use?](https://blog.newrelic.com/2018/01/23/best-sre-tools/)
 - [ ] [What is Site Reliability Engineering? (VMware)](https://blogs.vmware.com/services-education-insights/2018/02/site-reliability-engineering.html)
 - [x] [A Gentle Introduction to SRE](http://geekologist.co/introduction-to-sre/)
-- [ ] [Understanding Site Reliability Engineering through Movies and Books](http://engineering.medallia.com/blog/posts/understanding-site-reliability-engineering-through-movies-and-books/)
+- [x] [Understanding Site Reliability Engineering through Movies and Books](http://engineering.medallia.com/blog/posts/understanding-site-reliability-engineering-through-movies-and-books/)
 - [ ] [GOTO 2017 • Site Reliability Engineering at Google • Christof Leng](https://www.youtube.com/watch?v=Cxb7a8lTv8A)
 - [ ] The Makeup of Successful Geographically-Distributed SRE Teams - [Part1](https://engineering.linkedin.com/blog/2018/03/the-makeup-of-successful-geographically-distributed-sre-teams--p) & [Part2](https://engineering.linkedin.com/blog/2018/03/the-makeup-of-successful-geographically-distributed-sre-teams--p0)
 - [ ] [Tech Leadership in SRE](https://www.youtube.com/watch?v=6G2V1xPIM64)
