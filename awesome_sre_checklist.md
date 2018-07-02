@@ -22,26 +22,26 @@ Source: https://github.com/dastergon/awesome-sre
 
 ## Culture
 - [ ] [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
-- [ ] [Keys To SRE by Ben Treynor](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre)
-- [ ] [Google SRE Resources](https://landing.google.com/sre/resources.html)
-- [ ] [Notes from Production Engineering by Pedro Canahuati](https://www.usenix.org/conference/srecon15/program/presentation/canahuati)
-- [ ] [PostOps: Recovery from Operations](https://www.usenix.org/conference/srecon15europe/program/presentation/underwood)
+- [ ] [Keys To SRE by Ben Treynor](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre) - video
+- [ ] [Google SRE Resources](https://landing.google.com/sre/resources.html) - list of external links
+- [ ] [Notes from Production Engineering by Pedro Canahuati](https://www.usenix.org/conference/srecon15/program/presentation/canahuati) - video
+- [ ] [PostOps: Recovery from Operations](https://www.usenix.org/conference/srecon15europe/program/presentation/underwood) - video
 - [ ] [Love DevOps? Wait 'till you meet SRE](https://www.atlassian.com/it-service/site-reliability-engineering-sre) [[video]](https://youtu.be/fsTpRx8Pt-k)
 - [ ] [How Google Does Planet-Scale Engineering for Planet-Scale Infra](https://www.youtube.com/watch?v=H4vMcD7zKM0) - video
 - [ ] [Site Reliability Engineering at Facebook](https://www.facebook.com/notes/facebook-engineering/site-reliability-engineering-at-facebook/291616313919/)
 - [ ] [A History of Site Reliability Engineering at Uber](https://www.youtube.com/watch?v=qJnS-EfIIIE&nohtml5=False) - video
-- [ ] [Case Study: Adopting SRE Principles at StackOverflow](https://www.usenix.org/conference/srecon15/program/presentation/limoncelli)
+- [ ] [Case Study: Adopting SRE Principles at StackOverflow](https://www.usenix.org/conference/srecon15/program/presentation/limoncelli) - video
 - [ ] [Site Reliability Engineering at Dropbox](https://www.youtube.com/watch?v=ggizCjUCCqE) - video
 - [ ] [Site Reliability Engineers — Keeping Google up and running 24/7](https://www.youtube.com/watch?v=yXI7r0_J29M) - video
 - [ ] [Site Reliability Engineering at Salesforce](https://www.youtube.com/watch?v=JLkr6UHXN44&nohtml5=False) - video
 - [ ] [From Sys Admin to Netflix SRE](https://www.youtube.com/watch?v=lZI51YzIgVE) - video
-- [ ] [SRE@Google: Thousands of DevOps Since 2004](https://www.youtube.com/watch?v=iIuTnhdTzK0) - video
-- [ ] [Transactional System Administration Is Killing Us and Must be Stopped](https://www.usenix.org/conference/lisa15/conference-program/presentation/limoncelli)
-- [ ] [Maslow's hierarchy of SRE needs](https://plus.google.com/+lizthegrey/posts/MLAJFVyEb2f)
-- [ ] [PostOps: A Non-Surgical Tale of Software, Fragility, and Reliability](https://www.usenix.org/conference/lisa13/technical-sessions/plenary/underwood)
 - [ ] [From SysAdmin to Netflix SRE](https://www.socallinuxexpo.org/sites/default/files/presentations/Scale%20x14%20Slides.pdf) - slide deck
+- [ ] [SRE@Google: Thousands of DevOps Since 2004](https://www.youtube.com/watch?v=iIuTnhdTzK0) - video
+- [ ] [Transactional System Administration Is Killing Us and Must be Stopped](https://www.usenix.org/conference/lisa15/conference-program/presentation/limoncelli) - video
+- [ ] [Maslow's hierarchy of SRE needs](https://plus.google.com/+lizthegrey/posts/MLAJFVyEb2f)
+- [ ] [PostOps: A Non-Surgical Tale of Software, Fragility, and Reliability](https://www.usenix.org/conference/lisa13/technical-sessions/plenary/underwood) - video
 - [ ] [SRE: An incomplete guide to cultural Narnia](http://anthonycaiafa.com/2016/04/10/sre-cultural-narnia/) - [[Video]](https://www.youtube.com/watch?v=__wypEhdcrQ&t=0s) - video
-- [ ] [Putting Together Great SRE Teams](https://www.usenix.org/conference/srecon16/program/presentation/krishnan)
+- [ ] [Putting Together Great SRE Teams](https://www.usenix.org/conference/srecon16/program/presentation/krishnan) - video
 - [ ] [Work at Google: Meet our Production Engineers for Site Reliability Hangout on Air](https://www.youtube.com/watch?v=bwt6TZjefGM) - video
 - [ ] [Toil: A Word Every Engineer Should Know](https://medium.com/production-ready/toil-a-word-every-engineer-should-know-f0b676e41c86)
 - [ ] [Engineering Reliability into Web Sites: Google SRE](https://research.google.com/pubs/pub32583.html)
@@ -60,9 +60,9 @@ Source: https://github.com/dastergon/awesome-sre
 - [ ] [Introducing Google Customer Reliability Engineering](https://cloudplatform.googleblog.com/2016/10/introducing-a-new-era-of-customer-support-Google-Customer-Reliability-Engineering.html)
 - [ ] [Evolution or Rebellion? The rise of Site Reliability Engineers (SRE)](http://126kr.com/article/7vkoxnk6s01)
 - [ ] [The difference between Site Reliability Engineering, System Administration, and DevOps](https://standalone-sysadmin.com/the-difference-between-site-reliability-engineering-system-administration-and-devops-d05031495499)
-- [ ] [SRE in the Small and in the Large](https://www.usenix.org/conference/lisa16/conference-program/presentation/closing-plenary)
+- [ ] [SRE in the Small and in the Large](https://www.usenix.org/conference/lisa16/conference-program/presentation/closing-plenary) - video
 - [ ] [SBSRE Meetup: Different SRE roles and challenges(Netflix)](https://www.youtube.com/watch?v=zLXf0cKDOv0) - video
-- [ ] [Panel: Who/What Is SRE?](https://www.usenix.org/conference/srecon16/program/presentation/definition-of-sre-panel)
+- [ ] [Panel: Who/What Is SRE?](https://www.usenix.org/conference/srecon16/program/presentation/definition-of-sre-panel) - video
 - [ ] [Hope Is Not a Strategy](https://medium.com/@jerub/hope-is-not-a-strategy-6a7d0a3b1c08)
 - [ ] [Tenets of SRE](https://medium.com/@jerub/tenets-of-sre-8af6238ae8a8)
 - [ ] [Site Reliability Engineering Demystified](https://medium.com/@venkatachalamrangasamy/site-reliability-engineering-demystified-ed676e0a7d56)
@@ -72,7 +72,7 @@ Source: https://github.com/dastergon/awesome-sre
 - [ ] [Building the SRE Culture at LinkedIn](https://engineering.linkedin.com/blog/2017/05/building-the-sre-culture-at-linkedin)
 - [ ] [SRE white paper by RackN](https://rackn.com/sre-white-paper/)
 - [ ] [Podcast #111 – SRE: Occasionally Maintaining Infrastructure That You Hate](https://stackoverflow.blog/2017/06/12/podcast-111-sre-occasionally-maintaining-infrastructure-hate/)
-- [ ] [Splicing SRE DNA Sequences in the Biggest Software Company on the Planet](https://www.usenix.org/conference/srecon16europe/program/presentation/splicing-sre-dna-sequences-biggest-software-company)
+- [ ] [Splicing SRE DNA Sequences in the Biggest Software Company on the Planet](https://www.usenix.org/conference/srecon16europe/program/presentation/splicing-sre-dna-sequences-biggest-software-company) - video
 - [ ] [Why should your app get SRE support? - CRE life lessons](https://cloudplatform.googleblog.com/2017/06/why-should-your-app-get-SRE-support-CRE-life-lessons.html)
 - [ ] [How SREs find the landmines in a service - CRE life lessons](https://cloudplatform.googleblog.com/2017/06/how-SREs-find-the-landmines-in-a-service-CRE-life-lessons.html)
 - [ ] [Making the most of an SRE service takeover - CRE life lessons](https://cloudplatform.googleblog.com/2017/07/making-the-most-of-an-SRE-service-takeover-CRE-life-lessons.html)
@@ -98,10 +98,10 @@ Source: https://github.com/dastergon/awesome-sre
 - [ ] [Podcast: Site Reliability Management with Mike Hiraga](https://softwareengineeringdaily.com/2018/04/09/site-reliability-management-with-mike-hiraga/)
 
 ## Education
-- [ ] [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
-- [ ] [From Zero to Hero: Recommended Practices for Training your Ever-Evolving SRE Teams](https://www.usenix.org/conference/srecon15/program/presentation/widdowson)
+- [ ] [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik) - video
+- [ ] [From Zero to Hero: Recommended Practices for Training your Ever-Evolving SRE Teams](https://www.usenix.org/conference/srecon15/program/presentation/widdowson) - video
 - [ ] [New to an SRE team?](http://anthonycaiafa.com/2016/04/27/new-to-a-team/)
-- [ ] [The Systems Engineering Side of Site Reliability Engineering](https://www.usenix.org/publications/login/june15/hixson)
+- [ ] [The Systems Engineering Side of Site Reliability Engineering](https://www.usenix.org/publications/login/june15/hixson) - video
 - [ ] [Graduating from Bootcamp and interested in becoming a Site Reliability Engineer?](https://medium.com/@tammybutow/graduating-from-bootcamp-and-interested-in-becoming-a-site-reliability-engineer-b69a38ce858b)
 - [ ] [So you want to be a Site Reliability Engineer?](https://www.loomsystems.com/single-post/2016/03/23/So-you-want-to-be-a-Site-Reliability-Engineer)
 - [ ] [Spiraling Ops Debt & the SRE Coding Imperative](https://blog.loomsystems.com/2017/02/06/spiraling-ops-debt-the-sre-coding-imperative/)
@@ -129,9 +129,9 @@ Source: https://github.com/dastergon/awesome-sre
 - [ ] [Distributed Systems Observability](http://distributed-systems-observability-ebook.humio.com/)
 
 ## Hiring
-- [ ] [SRE Hiring](https://www.usenix.org/conference/srecon15/program/presentation/fong)
+- [ ] [SRE Hiring](https://www.usenix.org/conference/srecon15/program/presentation/fong) - video
 - [ ] [Hiring SREs at LinkedIn](https://engineering.linkedin.com/engineering-culture/hiring-sres-linkedin)
-- [ ] [Hiring Site Reliability Engineers](https://www.usenix.org/publications/login/june15/hiring-site-reliability-engineers)
+- [ ] [Hiring Site Reliability Engineers](https://www.usenix.org/publications/login/june15/hiring-site-reliability-engineers) - video
 - [ ] [Hiring your first SRE](https://sreally.com/hiring-your-first-sre-bdda38ee175d#.2m3sqyuw9)
 - [ ] [Growing the Site Reliability Team at LinkedIn: Hiring is Hard](https://www.youtube.com/watch?v=ZemNg9GYvOA) - video
 
@@ -150,8 +150,8 @@ Source: https://github.com/dastergon/awesome-sre
 - [ ] [Simplicity: A Prerequisite for Reliability](https://medium.com/production-ready/simplicity-a-prerequisite-for-reliability-8d000f8d18df#.74t9t0em2)
 - [ ] [The Two Sides to Google Infrastructure for Everyone Else](https://speakerdeck.com/garethr/the-two-sides-to-google-infrastructure-for-everyone-else) - slide deck
 - [ ] [How Embracing Continuous Release Reduced Change Complexity](https://www.usenix.org/conference/ures14west/summit-program/presentation/dickson) - video
-- [ ] [Making "Push On Green" a Reality](https://www.usenix.org/publications/login/october-2014-vol-39-no-5/making-push-green-reality)
-- [ ] [BeyondCorp: A New Approach to Enterprise Security](https://www.usenix.org/publications/login/dec14/ward)
+- [ ] [Making "Push On Green" a Reality](https://www.usenix.org/publications/login/october-2014-vol-39-no-5/making-push-green-reality) - video
+- [ ] [BeyondCorp: A New Approach to Enterprise Security](https://www.usenix.org/publications/login/dec14/ward) - video
 - [ ] [Brainstorming Failure by Jeff Smith](https://www.youtube.com/watch?v=dKe9S8u44Yk)  - video
 - [ ] [The Ripple Effect Of Outages And Downtime Cannot Be Underestimated](http://cloudtweaks.com/2016/04/outages-and-downtime/)
 - [ ] [The infrastructure behind Twitter: efficiency and optimization](https://blog.twitter.com/2016/the-infrastructure-behind-twitter-efficiency-and-optimization)
@@ -190,9 +190,9 @@ Source: https://github.com/dastergon/awesome-sre
 - [ ] [Tips for High Availability](https://medium.com/@NetflixTechBlog/tips-for-high-availability-be0472f2599c)
 
 ## Monitoring & Observability & Alerting
-- [ ] [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
+- [ ] [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring) - video
 - [ ] [The Evolution of Monitoring Systems at Google - Tony Rippy](https://vimeo.com/131484321) - video
-- [ ] [Monitoring without Infrastructure @ Airbnb](https://www.usenix.org/conference/srecon15/program/presentation/serebryany)
+- [ ] [Monitoring without Infrastructure @ Airbnb](https://www.usenix.org/conference/srecon15/program/presentation/serebryany) - video
 - [ ] [Monitoring distributed systems](https://www.oreilly.com/ideas/monitoring-distributed-systems)
 - [ ] [Observability at Uber Engineering: Past, Present, Future](https://www.youtube.com/watch?v=2JAnmzVwgP8) - video
 - [ ] [The 4 Golden Signals of API Health and Performance in Cloud-Native Applications](https://blog.netsil.com/the-4-golden-signals-of-api-health-and-performance-in-cloud-native-applications-a6e87526e74)
@@ -212,7 +212,7 @@ Source: https://github.com/dastergon/awesome-sre
 - [ ] [Monitoring Isn't Observability](https://www.vividcortex.com/blog/monitoring-isnt-observability)
 - [ ] [Monitoring in the time of Cloud Native](https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e)
 - [ ] [Principles of Monitoring Microservices](https://www.youtube.com/watch?v=2LNHv0JyBUk) - video
-- [ ] [The Many Ways Your Monitoring Is Lying to You](https://www.usenix.org/node/197446)
+- [ ] [The Many Ways Your Monitoring Is Lying to You](https://www.usenix.org/node/197446) - video
 - [ ] [GitOps Part 3 - Observability](https://www.weave.works/blog/gitops-part-3-observability)
 - [ ] [Want to Debug Latency?](https://medium.com/observability/want-to-debug-latency-7aa48ecbe8f7)
 - [ ] [Debugging Latency in Go 1.11](https://medium.com/observability/debugging-latency-in-go-1-11-9f97a7910d68)
@@ -264,14 +264,14 @@ Source: https://github.com/dastergon/awesome-sre
 - [ ] [How to Write Great Outage Post-Mortems](https://artsy.github.io/blog/2014/11/19/how-to-write-great-outage-post-mortems/)
 - [ ] [A collection of postmortem templates](https://github.com/dastergon/postmortem-templates)
 - [ ] [Embracing Feedback](https://blog.heptio.com/embracing-feedback-2fd703da714f)
-- [ ] [Postmortem Action Items: Plan the Work and Work the Plan](https://www.usenix.org/conference/srecon17americas/program/presentation/lueder)
+- [ ] [Postmortem Action Items: Plan the Work and Work the Plan](https://www.usenix.org/conference/srecon17americas/program/presentation/lueder) - video
 - [ ] [Social Issues In Postmortems](https://medium.com/@allspaw/social-issues-in-postmortems-d48dde624d18)
 - [ ] [Google Has an Official Process in Place for Learning From Failure--and It's Absolutely Brilliant](https://www.inc.com/justin-bariso/meet-postmortem-googles-brilliant-process-tool-for-learning-from-failure.html)
 - [ ] [Postmortem culture: how you can learn from failure](https://rework.withgoogle.com/blog/postmortem-culture-how-you-can-learn-from-failure/)
 - [ ] [re:Work - Postmortem discussion template](https://docs.google.com/document/d/1ob0dfG_gefr_gQ8kbKr0kS4XpaKbc0oVAk4Te9tbDqM/edit)
 
 ## Capacity Planning
-- [ ] [Capacity Planning](https://www.usenix.org/system/files/login/articles/login_feb15_07_hixson.pdf)
+- [ ] [Capacity Planning](https://www.usenix.org/system/files/login/articles/login_feb15_07_hixson.pdf) - pdf white paper
 - [ ] [SouthBay SRE: Cloud Capacity Planning](https://www.youtube.com/watch?v=MDQ0uEUmLOo) - video
 
 ## Service Level Agreement
@@ -281,8 +281,8 @@ Source: https://github.com/dastergon/awesome-sre
 - [ ] [Making a point with SLAs](https://blog.serverdensity.com/making-a-point-with-slas/)
 - [ ] [SysAdvent- Day 20 - How to set and monitor SLAs](https://sysadvent.blogspot.com/2016/12/day-20-how-to-set-and-monitor-slas.html)
 - [ ] [SLOs, SLIs, SLAs, oh my - CRE life lessons](https://cloudplatform.googleblog.com/2017/01/availability-part-deux--CRE-life-lessons.html)
-- [ ] [Service Levels and Error Budgets](https://www.usenix.org/conference/srecon16/program/presentation/jones)
-- [ ] [(Un)Reliability Budgets - Finding Balance between Innovation and Reliability](https://www.usenix.org/system/files/login/articles/login_aug15_06_roth.pdf)
+- [ ] [Service Levels and Error Budgets](https://www.usenix.org/conference/srecon16/program/presentation/jones) - video
+- [ ] [(Un)Reliability Budgets - Finding Balance between Innovation and Reliability](https://www.usenix.org/system/files/login/articles/login_aug15_06_roth.pdf) - pdf white paper
 - [ ] [The Calculus of Service Availability](https://queue.acm.org/detail.cfm?id=3096459&__s=dnkxuaws9pogqdnxmx8i)
 - [ ] [Availability Calculator: Calculate how much downtime should be permitted in your SLA](https://dastergon.github.io/availability-calculator/)
 - [ ] [Standardize cloud SLA availability with numerical performance data](https://www.ibm.com/developerworks/cloud/library/cl-SLAloadbalance-numanalysis/)
@@ -297,7 +297,7 @@ Source: https://github.com/dastergon/awesome-sre
 - [ ] [Error Budget Calculator](https://dastergon.gr/error-budget-calculator/)
 
 ## Performance
-- [ ] [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
+- [ ] [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg) - video
 - [ ] [South Bay SRE Meetup - Netflix Cloud Performance Team](https://youtu.be/uQ0flQOtQEA) - video
 
 ## Programming
