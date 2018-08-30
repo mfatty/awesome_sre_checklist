@@ -103,7 +103,7 @@ Source: https://github.com/dastergon/awesome-sre
 - [x] [New to an SRE team?](http://anthonycaiafa.com/2016/04/27/new-to-a-team/)
 - [ ] [The Systems Engineering Side of Site Reliability Engineering](https://www.usenix.org/publications/login/june15/hixson) - white paper
 - [ ] [Graduating from Bootcamp and interested in becoming a Site Reliability Engineer?](https://medium.com/@tammybutow/graduating-from-bootcamp-and-interested-in-becoming-a-site-reliability-engineer-b69a38ce858b) - list of learning resources
-- [ ] [So you want to be a Site Reliability Engineer?](https://www.loomsystems.com/single-post/2016/03/23/So-you-want-to-be-a-Site-Reliability-Engineer)
+- [x] [So you want to be a Site Reliability Engineer?](https://www.loomsystems.com/single-post/2016/03/23/So-you-want-to-be-a-Site-Reliability-Engineer)
 - [x] [Spiraling Ops Debt & the SRE Coding Imperative](https://blog.loomsystems.com/2017/02/06/spiraling-ops-debt-the-sre-coding-imperative/)
 - [ ] [So you want to be an SRE?](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c)
 - [ ] [Career Profiles/Site Reliability Engineer](https://www.khanacademy.org/college-careers-more/career-content/career-profile-videos/site-reliability-engineer/v/ruth-grace-site-reliability-engineer-what-i-do-and-how-much-i-make) - khan academy videos
